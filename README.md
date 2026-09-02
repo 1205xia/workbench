@@ -21,11 +21,7 @@ npm install
 npm run dev
 ```
 
-默认预览地址：
-
-```text
-http://localhost:5173/
-```
+启动后按终端提示打开本机预览地址即可。
 
 ## 构建网页资源
 
@@ -74,4 +70,3 @@ android/app/build/outputs/apk/debug/app-debug.apk
 - `local.properties`
 - APK、AAB 等构建产物
 - 个人隐私数据、Token、密码和本机路径配置
-

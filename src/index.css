@@ -1,0 +1,2 @@
+:root { font-family: Nunito, "PingFang SC", "Microsoft YaHei", sans-serif; color: #35323d; background: #f8f7fb; }
+* { box-sizing: border-box; } body { margin: 0; min-width: 320px; } button, input, textarea { font: inherit; } button { cursor: pointer; }

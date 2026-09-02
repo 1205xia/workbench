@@ -1,0 +1,176 @@
+{
+  "top20": [
+    {
+      "word": "professor",
+      "phonetic": "",
+      "meaning": "教授",
+      "example": "The professor improvised a poem in the class.",
+      "exampleTranslation": "教授在课堂上即兴创作了一首诗。"
+    },
+    {
+      "word": "context",
+      "phonetic": "'kɑntɛkst",
+      "meaning": "背景，环境",
+      "example": "The meaning of ‘mad’ depends on its context. mad",
+      "exampleTranslation": "一词的意义要视上下文而定。"
+    },
+    {
+      "word": "install",
+      "phonetic": "ɪn'stɔl",
+      "meaning": "安装",
+      "example": "They’ve installed the new computer network at last.",
+      "exampleTranslation": "他们终于安装了新电脑网络。"
+    },
+    {
+      "word": "generally",
+      "phonetic": "'dʒɛnrəli",
+      "meaning": "一般地；通常地",
+      "example": "It could be five years before the drug is generally available.",
+      "exampleTranslation": "这种药可能还要过五年才能广泛投入市场。"
+    },
+    {
+      "word": "foot",
+      "phonetic": "fʊt",
+      "meaning": "脚；最下部；英尺",
+      "example": "My foot hurts.",
+      "exampleTranslation": "我脚痛。"
+    },
+    {
+      "word": "mass",
+      "phonetic": "mæs",
+      "meaning": "众多；团；群众",
+      "example": "a mass protest",
+      "exampleTranslation": "大规模的抗议"
+    },
+    {
+      "word": "crime",
+      "phonetic": "kraɪm",
+      "meaning": "罪，罪行；犯罪",
+      "example": "We moved here because there was very little crime.",
+      "exampleTranslation": "我们搬到这里来是因为这里的犯罪率很低。"
+    },
+    {
+      "word": "count",
+      "phonetic": "kaʊnt",
+      "meaning": "计算；数，计数",
+      "example": "I was amazed at the number of plants - I counted 147.",
+      "exampleTranslation": "我对植物的数量之多感到惊讶，我数了有147棵。"
+    },
+    {
+      "word": "breast",
+      "phonetic": "brɛst",
+      "meaning": "乳房；胸脯，胸膛",
+      "example": "These bras are specially designed for women with large breasts.",
+      "exampleTranslation": "这些胸罩专为乳房丰满的女性设计。"
+    },
+    {
+      "word": "religion",
+      "phonetic": "rɪ'lɪdʒən",
+      "meaning": "宗教；宗教信仰",
+      "example": "The U.S. Constitution promises freedom of religion.",
+      "exampleTranslation": "美国宪法保证宗教信仰自由。"
+    },
+    {
+      "word": "claim",
+      "phonetic": "klem",
+      "meaning": "声称，主张；索取",
+      "example": "I don’t claim to be a feminist, but I’d like to see more women in top jobs.",
+      "exampleTranslation": "我不会自称是女权主义者，但我希望看到更多的女性担任高职。"
+    },
+    {
+      "word": "permission",
+      "phonetic": "pɚ'mɪʃən",
+      "meaning": "允许，许可，同意",
+      "example": "He asked permission to leave the room.",
+      "exampleTranslation": "他请求离开房间的许可。"
+    },
+    {
+      "word": "surgery",
+      "phonetic": "'sɝdʒəri",
+      "meaning": "外科，外科手术",
+      "example": "Dr. Hanson is in surgery.",
+      "exampleTranslation": "汉森医生在手术室。"
+    },
+    {
+      "word": "patch",
+      "phonetic": "pætʃ",
+      "meaning": "补钉；碎片；补缀",
+      "example": "Look out for icy patches on the road.",
+      "exampleTranslation": "小心路上结冰的地方。"
+    },
+    {
+      "word": "heat",
+      "phonetic": "hit",
+      "meaning": "热，炎热；变热",
+      "example": "Ice needs heat to melt.",
+      "exampleTranslation": "冰需要热才能融化。"
+    },
+    {
+      "word": "generation",
+      "phonetic": "'dʒɛnə'reʃən",
+      "meaning": "一代人，产生",
+      "example": "Like most of my generation, I had never known a war.",
+      "exampleTranslation": "和我们这一代的大多数人一样，我并没有经历过战争。"
+    },
+    {
+      "word": "miss",
+      "phonetic": "mɪs",
+      "meaning": "小姐",
+      "example": "I’d like to make an appointment with Miss Taylor.",
+      "exampleTranslation": "我想约一下泰勒小姐。"
+    },
+    {
+      "word": "chemical",
+      "phonetic": "'kɛmɪkl",
+      "meaning": "化学的 n. 化学制品",
+      "example": "the chemical composition of bleach",
+      "exampleTranslation": "漂白剂的化学成分"
+    },
+    {
+      "word": "doctor",
+      "phonetic": "'dɑktɚ",
+      "meaning": "医生，医师；博士",
+      "example": "She was treated by her local doctor.",
+      "exampleTranslation": "她由她的本区医生治疗。"
+    },
+    {
+      "word": "task",
+      "phonetic": "tæsk",
+      "meaning": "任务，工作",
+      "example": "Sara had the task of preparing the agenda for meetings.",
+      "exampleTranslation": "萨拉的任务是准备会议议程。"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the context of",
+      "meaning": "在…情况下；在…背景下",
+      "example": "The meaning of ‘mad’ depends on its context. mad",
+      "translation": "一词的意义要视上下文而定。"
+    },
+    {
+      "phrase": "in this context",
+      "meaning": "关于这点；由此而论；由于这个原因；在这个背景下",
+      "example": "The meaning of ‘mad’ depends on its context. mad",
+      "translation": "一词的意义要视上下文而定。"
+    },
+    {
+      "phrase": "cultural context",
+      "meaning": "文化环境，文化脉络",
+      "example": "The meaning of ‘mad’ depends on its context. mad",
+      "translation": "一词的意义要视上下文而定。"
+    },
+    {
+      "phrase": "social context",
+      "meaning": "社会背景；社会环境；社会情境",
+      "example": "The meaning of ‘mad’ depends on its context. mad",
+      "translation": "一词的意义要视上下文而定。"
+    },
+    {
+      "phrase": "context menu",
+      "meaning": "上下文菜单；右键菜单；快显功能表；快捷菜单",
+      "example": "The meaning of ‘mad’ depends on its context. mad",
+      "translation": "一词的意义要视上下文而定。"
+    }
+  ]
+}
